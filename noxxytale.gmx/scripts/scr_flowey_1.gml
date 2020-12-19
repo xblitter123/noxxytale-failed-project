@@ -1,0 +1,24 @@
+dialogIndex = 0;
+conIndex = 0;
+
+scr_as_dialog(spr_flowey_battle, "* oh howdy, im flowey.");
+scr_as_dialog(spr_flowey_battle, "* i didn't see you there.");
+scr_as_dialog(spr_flowey_battle, "* iv'e never seen anybody like you before.");
+scr_as_dialog(spr_flowey_battle, "* golly,");
+scr_as_dialog(spr_flowey_battle, "* someone oght'a teach ya how things work around here.");
+scr_as_dialog(spr_flowey_battle, "* guess little old me will have to do. ready?");
+scr_as_dialog(spr_flowey_battle, "* ...");
+scr_as_dialog(spr_flowey_battle, "* W A I T . . .");
+scr_as_dialog(spr_flowey_battle, "* I V ' E  S E E N  Y O U  B E F O R E .");
+scr_as_dialog(spr_flowey_battle, "* Y O U R . . .");
+scr_as_dialog(spr_flowey_battle, "* N O X X Y . . .");
+scr_as_dialog(spr_flowey_battle, "* i'm your biggest fan!");
+scr_as_dialog(spr_flowey_battle, "* sorry i scared you.");
+scr_as_dialog(spr_flowey_battle, "* sometimes i get a bit...");
+scr_as_dialog(spr_flowey_battle, "* O V E R E X I T E D . . .");
+scr_as_dialog(spr_flowey_battle, "* welcome to the underground.");
+scr_as_dialog(spr_flowey_battle, "* but first.");
+scr_as_dialog(spr_flowey_battle, "* can i have your autograph?");
+scr_as_dialog(spr_flowey_battle, "* oh wait, i'm sorry.");
+scr_as_dialog(spr_flowey_battle, "* i'm asking to much.");
+scr_as_dialog(spr_flowey_battle, "* i'll show you around.");
